@@ -1,3 +1,5 @@
+首先非常感谢@baronHuang对此项目框架的技术解惑与支持。
+baronHuang：https://github.com/baronhuang
 # egg-ant-vue-example
 
 > 简介：样例项目采用egg+vue+ant-design-vue来进行开发，egg提供服务器端的服务，可以用来转发接口，接口封装等，
